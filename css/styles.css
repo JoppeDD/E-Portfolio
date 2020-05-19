@@ -178,6 +178,10 @@ pre.code-format {
     background: none;
 }
 
+.sidebar-brand a {
+    display: block;
+}
+
 
 /*************************/
 /*     Media Queries     */

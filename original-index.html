@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Documentation - Aria Business HTML Landing Page Template</title>
+    <title>E-Portfolio Joppe Duthoit</title>
 
     <!-- Styles -->
 	<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,600" rel="stylesheet">
@@ -28,31 +28,28 @@
 
         <!-- Sidebar -->
         <div id="sidebar-wrapper">
-			<p>Aria - Landing Page<br> Documentation</p>
+			<p>E-Portfolio<br> Joppe Duthoit</p>
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
                 </li>
                 <li>
-                    <a href="#introduction">INTRODUCTION</a>
+                    <a href="#introduction">HOME</a>
                 </li>
                 <li>
-                    <a href="#files">FILES STRUCTURE</a>
+                    <a href="#files">OVER MEZELF</a>
 				</li>
 				<li>
-                    <a href="#images">IMAGES</a>
+                    <a href="#images">PROJECTEN</a>
                 </li>
                 <li>
-                    <a href="#icons">ICONS</a>
+                    <a href="#icons">COMPETENTIES</a>
 				</li>
 				<li>
-                    <a href="#forms">REQUEST CALL, CONTACT & PRIVACY POLICY FORM</a>
+                    <a href="#forms">CONTACT</a>
                 </li>
 				<li>
-					<a href="#projects">PROJECTS</a>
+					<a href="cv.pdf">CV</a>
 				</li>
-				<li>
-                    <a href="#support">SUPPORT</a>
-                </li>
             </ul>
         </div>
         <!-- end of sidebar wrapper -->
@@ -63,7 +60,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <div id="introduction" class="col-lg-12">
-                        <h1>INTRODUCTION</h1>
+                        <h1>Home</h1>
                         <p>Hello and thank you for using Aria Business HTML Landing Page Template. Aria is an HTML landing page template built with Bootstrap featuring morphtext, text slider, grid filtering, lightbox details, count-to numbers, call request and contact form.</p>
 						<p>Built with Bootstrap 4, HTML5, CSS3, PHP and JavaScript it will help you achieve your online marketing goals in a beautiful and efficient manner.</p>
 						<p>Frameworks and toolkits used: Bootstrap 4, Popper, jQuery, jQuery Easing, Validator, Isotope, Magnific Popup, Swiper, CountTo</p>
@@ -76,7 +73,7 @@
 					
 					
 					<div id="files" class="col-lg-12">
-                        <h1>FILES STRUCTURE</h1>
+                        <h1>Over mijzelf</h1>
 						<p>
 							<b>Documentation</b> - is the folder of this help file.
 							<br><b>Web</b> - contains the html, css, js and php files of the template.
@@ -97,7 +94,7 @@
 
 
 					<div id="images" class="col-lg-12">
-						<h1>IMAGES</h1>
+						<h1>Projecten</h1>
 						<p>You can find your own images while checking out the following free online sources:
 							<ul>
 								<li>Freepik: <a href="https://www.pexels.com/">https://www.freepik.com/home</a></li>
@@ -196,7 +193,7 @@
 					
 					
 					<div id="icons" class="col-lg-12">
-                        <h1>ICONS</h1>
+                        <h1>COMPETENTIEMATRIX</h1>
 						<h3>Font Awesome Icons</h3>
 						<p>Aria uses <a href="http://fontawesome.io/">Font Awesome</a> icon font in many sections and elements.
 						<p>To change one of the Font Awesome icons you can simply replace the classes that you'll find in index.html e.g. fa-binoculars, fa-list-alt, fa-chart-pie with the ones that you need from <a href="http://fontawesome.io/icons/">http://fontawesome.io/icons/</a></p>
@@ -235,32 +232,25 @@
 							<li>contactform-process.php</li>
 							<li>privacy-process.php</li>
 						</ul>
-						<p><b>Attention:</b>The script only runs online (on a liver server with PHP support) so the forms will not work while the landing page is offline on your hard-drive</p>
-						<p>If you want to change input fields names, you will need to update them accordingly in the following files:</p>
+                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
 						<ul>
-							<li><b>index.html</b>, <b>scripts.js</b> and the php file from the <b>php</b> folder.</li>
+							<li>callmeform-process.php</li>
+							<li>contactform-process.php</li>
+							<li>privacy-process.php</li>
 						</ul>
-
-						<h3>Setup A Redirect Page On Form Submit</h3>
-						<p>
-							To setup a redirect to a thank you page on form submit, you need to: 
-							<br>- Open <b>js/scripts.js</b> inside the template folder
-							<br>- Find the following block of code in the form section 
-<pre class="code-format">
-function cformSuccess() {
-	$("#ContactForm")[0].reset();
-	csubmitMSG(true, "Message Submitted!")
-}
-</pre>
-							<br>- And change it to:
-<pre class="code-format">
-function cformSuccess() {
-	$("#ContactForm")[0].reset();
-	window.location.href = "https://yourlinkhere.com";
-}
-</pre>
-							<br>- And replace inside the quotes <span class="code">https://yourlinkhere.com</span> with your link
-						</p>
+                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
+						<ul>
+							<li>callmeform-process.php</li>
+							<li>contactform-process.php</li>
+							<li>privacy-process.php</li>
+						</ul>
+                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
+						<ul>
+							<li>callmeform-process.php</li>
+							<li>contactform-process.php</li>
+							<li>privacy-process.php</li>
+						</ul>
+						
 					</div> <!-- end of contact forms -->
 						
 					
@@ -268,57 +258,19 @@ function cformSuccess() {
 					
 
 					<div id="projects" class="col-lg-12">
-						<h1>PROJECTS</h1>
+						<h1>CONTACT INFO</h1>
 						<p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-						
-						<h3>Adding A New Project</h3>
-						<p>
-							To add a new project in the projects section, you need to: 
-							<br>- Open for editing <b>index.html</b> and find the <b>Projects</b> section
-							<br>- Here focus on the code area just below 
-<pre class="code-format">
-&lt;div class=&quot;grid&quot;&gt;
-</pre>
-							<br>- You can copy the following piece of code:
-<pre class="code-format">
-&lt;div class=&quot;element-item development&quot;&gt;
-	&lt;a class=&quot;popup-with-move-anim&quot; href=&quot;#project-1&quot;&gt;&lt;div class=&quot;element-item-overlay&quot;&gt;&lt;span&gt;Online Banking&lt;/span&gt;&lt;/div&gt;&lt;img src=&quot;images/project-1.jpg&quot; alt=&quot;alternative&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-</pre>
-							<br>- And paste it wherever you want your project to be in the Show All order
-							<br>- Now replace the name and the image as per your requirements
-							<br>- Also add it to a designated category. Now it's set for <b>development</b> as you can see from the code but you can change it to any category you define
-						</p>
-
-						<h3>Adding A New Category</h3>
-						<p>
-							To add a new project category in the projects section, you need to: 
-							<br>- Open for editing <b>index.html</b> and find the <b>Projects</b> section
-							<br>- Here in the <b>Filter</b> section duplicate a line like the one below:  
-<pre class="code-format">
-&lt;a class=&quot;button&quot; data-filter=&quot;.development&quot;&gt;&lt;span&gt;DEVELOPMENT&lt;/span&gt;&lt;/a&gt;
-</pre>
-							<br>- And replace the word "development" in both locations with your category name
-							<br>- Then also add it to the project line below
-<pre class="code-format">
-&lt;div class=&quot;element-item development&quot;&gt;
-</pre>
-							<br>- By replacing "development" with your category name
-						</p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
+                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
 					</div> <!-- end of projects -->
 
-
-					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
-
-					
-					<div id="support" class="col-lg-12">
-						<h1>SUPPORT</h1>
-						<p>Because of limited resources at this point I am not able to provide support for free items but don't hesitate to send your questions at <a href="mailto:lucian@inovatik.com">lucian@inovatik.com</a> and I will try to help and at least point you in the right direction.</p>
-					</div> <!-- end of support -->
-										
-					<div class="col-lg-12">
-						<p class="footer">Aria - Business HTML Landing Page Template by <a href="https://inovatik.com">Inovatik</a></p>
-					</div>
                 </div>
             </div>
         </div> <!-- end of page-content-wrapper -->

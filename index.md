@@ -33,19 +33,16 @@
                 <li class="sidebar-brand">
                 </li>
                 <li>
-                    <a href="#introduction">HOME</a>
+                    <a href="#home">HOME</a>
+                </li>
+				<li>
+                    <a href="#project">PROJECTEN</a>
                 </li>
                 <li>
-                    <a href="#files">OVER MEZELF</a>
+                    <a href="competenties.html">COMPETENTIES</a>
 				</li>
 				<li>
-                    <a href="#images">PROJECTEN</a>
-                </li>
-                <li>
-                    <a href="#icons">COMPETENTIES</a>
-				</li>
-				<li>
-                    <a href="#forms">CONTACT</a>
+                    <a href="#contact">CONTACT</a>
                 </li>
 				<li>
 					<a href="cv.pdf">CV</a>
@@ -59,218 +56,36 @@
         <div id="page-content-wrapper">
             <div class="container-fluid">
                 <div class="row">
-                    <div id="introduction" class="col-lg-12">
+                    <div id="home" class="col-lg-12">
                         <h1>Home</h1>
-                        <p>Hello and thank you for using Aria Business HTML Landing Page Template. Aria is an HTML landing page template built with Bootstrap featuring morphtext, text slider, grid filtering, lightbox details, count-to numbers, call request and contact form.</p>
-						<p>Built with Bootstrap 4, HTML5, CSS3, PHP and JavaScript it will help you achieve your online marketing goals in a beautiful and efficient manner.</p>
-						<p>Frameworks and toolkits used: Bootstrap 4, Popper, jQuery, jQuery Easing, Validator, Isotope, Magnific Popup, Swiper, CountTo</p>
-						<p>You can edit the template's Html, Css, Php, Js files with your preferred text and code editor: <a href="https://notepad-plus-plus.org/">Notepad++</a>, <a href="https://code.visualstudio.com/">Visual Code</a>, <a href="https://www.sublimetext.com/">Sublime</a> or any other...</p>
-						<p>For image editing you can use <a href="http://www.adobe.com/products/photoshop.html">Adobe Photoshop</a> or any other graphic editor of your choice.</p>
+                        <h2>Welkom op mijn e-portfolio</h2>
+                        <br>
+                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
 					</div> <!-- end of introduction -->
-					
-					
-					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
-					
-					
-					<div id="files" class="col-lg-12">
-                        <h1>Over mijzelf</h1>
-						<p>
-							<b>Documentation</b> - is the folder of this help file.
-							<br><b>Web</b> - contains the html, css, js and php files of the template.
-						</p>
-						<p><b>Web</b> folder includes <b>index.html</b> file which you will use to open the template. Besides index.html, you will also find the following folders:
-							<ul>
-								<li><b>Css</b> - Bootstrap, Font Awesome, Magnific Popup, Swiper and the template's custom stylesheet styles.css</li>
-								<li><b>Images</b> - Images used throughout the template including the favicon and logo</li>
-								<li><b>Js</b> - JavaScript files for Bootstrap, Popper, jQuery, jQuery Easing, Magnific Popup, Swiper, Validator and Aria's custom scripts: scripts.js</li>
-								<li><b>Php</b> - PHP script files for the contact forms</li>
-								<li><b>Webfonts</b> - Font Awesome files</li>
-							</ul>
-						</p>
-					</div> <!-- end of files structure -->
-
+                    
 
 					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
 
 
-					<div id="images" class="col-lg-12">
-						<h1>Projecten</h1>
-						<p>You can find your own images while checking out the following free online sources:
-							<ul>
-								<li>Freepik: <a href="https://www.pexels.com/">https://www.freepik.com/home</a></li>
-								<li>Pexels: <a href="https://www.pexels.com/">https://www.pexels.com/</a></li>
-								<li>SplitShire: <a href="https://www.splitshire.com/">https://www.splitshire.com/</a></li>
-								<li>StartupStockPhotos: <a href="http://startupstockphotos.com/">http://startupstockphotos.com/</a></li>
-								<li>StockSnap: <a href="https://stocksnap.io/">https://stocksnap.io/</a></li>
-								<li>ISO Republic: <a href="http://isorepublic.com/">http://isorepublic.com/</a></li>
-								<li>Videezy: <a href="https://www.videezy.com/">https://www.videezy.com/</a> - for videos</li>
-							</ul>
-						</p>
-
-						<h3>Images sources</h3>
-						<p>Images are mostly from Freepik.com:
-							<ul>
-								<li>Header background: <a href="https://www.pexels.com/photo/mountain-scenery-1450082/">https://www.pexels.com/photo/mountain-scenery-1450082/</a></li>
-								<li>Intro background: <a href="https://www.freepik.com/free-vector/white-background-abstract-style_4077193.htm">https://www.freepik.com/free-vector/white-background-abstract-style_4077193.htm</a></li>
-								<li>Intro image: <a href="https://www.pexels.com/photo/woman-wearing-grey-long-sleeved-top-photography-1122868/">https://www.pexels.com/photo/woman-wearing-grey-long-sleeved-top-photography-1122868/</a></li>
-								<li>Services: <a href="https://www.pexels.com/photo/white-ceramic-teacup-in-white-ceramic-saucer-on-railings-2490932/">https://www.pexels.com/photo/white-ceramic-teacup-in-white-ceramic-saucer-on-railings-2490932/</a> 
-								<br><a href="https://www.pexels.com/photo/white-book-on-sand-during-daytime-159597/">https://www.pexels.com/photo/white-book-on-sand-during-daytime-159597/</a>
-								<br><a href="https://www.pexels.com/photo/person-wearing-blue-denim-pants-and-brown-boots-sitting-on-brown-and-black-stone-in-front-of-body-of-water-185771/">https://www.pexels.com/photo/person-wearing-blue-denim-pants-and-brown-boots-sitting-on-brown-and-black-stone-in-front-of-body-of-water-185771/</a></li>
-								<li>Details 1: <a href="https://www.pexels.com/photo/foggy-lake-2166695/">https://www.pexels.com/photo/foggy-lake-2166695/</a></li>
-								<li>Details 2: <a href="https://www.pexels.com/photo/nature-forest-trees-fog-4827/">https://www.pexels.com/photo/nature-forest-trees-fog-4827/</a></li>
-								<li>Testimonials: <a href="https://www.pexels.com/photo/view-of-escalator-327496/">https://www.pexels.com/photo/view-of-escalator-327496/</a></li>
-								<li>Projects: <a href=" https://www.pexels.com/photo/boat-island-ocean-sea-218999/"> https://www.pexels.com/photo/boat-island-ocean-sea-218999/</a>
-								<br><a href="https://www.pexels.com/photo/sea-mountains-sky-beach-65614/">https://www.pexels.com/photo/sea-mountains-sky-beach-65614/</a>
-								<br><a href="https://www.pexels.com/photo/gray-rail-road-in-the-mountain-868677/">https://www.pexels.com/photo/gray-rail-road-in-the-mountain-868677/</a>
-								<br><a href="https://www.pexels.com/photo/black-canon-dslr-camera-facing-the-mountains-during-day-1785001/">https://www.pexels.com/photo/black-canon-dslr-camera-facing-the-mountains-during-day-1785001/</a>
-								<br><a href="https://www.pexels.com/photo/blur-branches-depth-of-field-dry-leaves-242201/">https://www.pexels.com/photo/blur-branches-depth-of-field-dry-leaves-242201/</a>
-								<br><a href="https://www.pexels.com/photo/empty-boats-on-shore-near-mountains-1756874/">https://www.pexels.com/photo/empty-boats-on-shore-near-mountains-1756874/</a>
-								<br><a href="https://www.pexels.com/photo/adult-adventure-backpack-daylight-442559/">https://www.pexels.com/photo/adult-adventure-backpack-daylight-442559/</a>
-								<br><a href="https://www.pexels.com/photo/round-grey-and-black-compass-1736222/">https://www.pexels.com/photo/round-grey-and-black-compass-1736222/</a></li>
-								<li>Team: <a href="https://www.freepik.com/premium-photo/portrait-smiling-business-people-holding-digital-tablet_3475654.htm">https://www.freepik.com/premium-photo/portrait-smiling-business-people-holding-digital-tablet_3475654.htm</a></li>
-								<li>About: <a href="https://www.pexels.com/photo/mountain-scenery-1450082/">https://www.pexels.com/photo/mountain-scenery-1450082/</a></li>
-							</ul>
-						</p>
-						
-						<h3>Changing The Logo</h3>
-						<p>
-							- Place your image file in the <b>images</b> folder
-							<br>- Open for editing <b>index.html</b>
-							<br>- Find <b>Navbar</b> section
-							<br>- Here find this line of code:
-<pre class="code-format">
-&lt;a class=&quot;navbar-brand logo-image&quot; href=&quot;index.html&quot;&gt;&lt;img src=&quot;images/logo.svg&quot; alt=&quot;alternative&quot;&gt;&lt;/a&gt;
-</pre>							
-							<br>- And replace <span class="code">logo.svg</span> with your new file name
-							<br>- Save the file and refresh the browser window to see the changes
-						</p>
-						
-						<h3>Changing Header Background Image</h3>
-						<p>
-							- Edit and save the image file in the <b>images</b> folder
-							<br>- Open for editing <b>css/styles.css</b>
-							<br>- Find the <b>Header</b> section and the following lines of code:
-<pre class="code-format">
-.header {
-	background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/header-background.jpg') center center no-repeat;
-	background-size: cover;
-}
-</pre>							
-							<br>- And replace <span class="code">header-background.jpg</span> with your own file name
-							<br>- Save the file and refresh the browser window to see the changes
-						</p>
-						
-						<h3>Changing The Background Image Of Details section</h3>
-						<p>
-							- Edit and save the image file in the <b>images</b> folder
-							<br>- Open for editing <b>css/styles.css</b>
-							<br>- Find the section <b>Details 1</b>
-							<br>- Here focus on the following lines:
-<pre class="code-format">
-.accordion .area-1 {
-	height: 27rem;
-	background: url('../images/details-1-background.jpg') center center no-repeat;
-	background-size: cover;
-}
-</pre>							
-							<br>- And replace <span class="code">details-1-background.jpg</span> with your own file name
-							<br>- For optimum results with the least amount of work I recommend using the same image size as the original in Live Preview
-							<br>- Save the file and refresh the browser window to see the changes
-							<br>- The same goes for <b>Details 2</b> section
-							<br>- Only this time you focus on the following lines
-<pre class="code-format">
-.tabs .area-2 {
-	height: 27rem;
-	background: url('../images/details-2-background.jpg') center center no-repeat;
-	background-size: cover;
-}
-</pre>
-						</p>
-					</div> <!-- end of images -->
-
+					<div id="project" class="col-lg-12">
+                        <h1>Home</h1>
+                        <h2>Welkom op mijn e-portfolio</h2>
+                        <br>
+                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
+					</div> <!-- end of introduction -->
+                    
 
 					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
-					
-					
-					<div id="icons" class="col-lg-12">
-                        <h1>COMPETENTIEMATRIX</h1>
-						<h3>Font Awesome Icons</h3>
-						<p>Aria uses <a href="http://fontawesome.io/">Font Awesome</a> icon font in many sections and elements.
-						<p>To change one of the Font Awesome icons you can simply replace the classes that you'll find in index.html e.g. fa-binoculars, fa-list-alt, fa-chart-pie with the ones that you need from <a href="http://fontawesome.io/icons/">http://fontawesome.io/icons/</a></p>
-
-						<h3>Social Media Icons</h3>
-						<p>To change social media icons in the Footer section of the template, you need to: 
-							<br>- Open <b>index.html</b> from the template folder
-							<br>- Find the section Social Media in the Footer:
-							<br>- And replace <span class="code">fa-facebook</span>, <span class="code">fa-twitter</span>, and so on... with the classes name that you need from <a href="http://fontawesome.io/icons/">http://fontawesome.io/icons/</a> in the Brand Icons section
-							<br>- Also don't forget to replace <span class="code">href="#your-link"</span> with the link to your social page or account
-						</p>
-
-						<h3>Social Media Tip</h3>
-						<p>If you want to control the way the posts look like when you share the landing page on social media (Facebook, Google+ and LinkedIn especially) don't forget to update the OG Meta Tags (OpenGraph) in the Head section of the <b>index.html</b> file.
-<pre class="code-format">
-&lt;meta property="og:site_name" content="" /&gt; &lt;!-- website name --&gt;
-&lt;meta property="og:site" content="" /&gt; &lt;!-- website link --&gt;
-&lt;meta property="og:title" content=""/&gt; &lt;!-- title shown in the actual shared post --&gt;
-&lt;meta property="og:description" content="" /&gt; &lt;!-- description shown in the actual shared post --&gt;
-&lt;meta property="og:image" content="" /&gt; &lt;!-- image link, make sure it's jpg --&gt;
-&lt;meta property="og:url" content="" /&gt; &lt;!-- where do you want your post to link to --&gt;
-&lt;meta property="og:type" content="article" /&gt;
-</pre>
-						<br>You can check out <a href="http://engageinteractive.co.uk/blog/an-introduction-to-using-facebooks-open-graph-protocol">this article</a> courtesy of Engage Interactive</p>
-                    </div> <!-- end of icons -->
-					
-
-					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
-					
-
-					<div id="forms" class="col-lg-12">
-                        <h1>CONTACT FORMS</h1>
-                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
-						<ul>
-							<li>callmeform-process.php</li>
-							<li>contactform-process.php</li>
-							<li>privacy-process.php</li>
-						</ul>
-                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
-						<ul>
-							<li>callmeform-process.php</li>
-							<li>contactform-process.php</li>
-							<li>privacy-process.php</li>
-						</ul>
-                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
-						<ul>
-							<li>callmeform-process.php</li>
-							<li>contactform-process.php</li>
-							<li>privacy-process.php</li>
-						</ul>
-                        <p>To receive emails with data from your visitors simply change the line <span class="code">$EmailTo = "yourname@domain.com";</span> to your email address in the <b>php</b> folder in the following files:</p>
-						<ul>
-							<li>callmeform-process.php</li>
-							<li>contactform-process.php</li>
-							<li>privacy-process.php</li>
-						</ul>
-						
-					</div> <!-- end of contact forms -->
-						
-					
-					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
-					
-
-					<div id="projects" class="col-lg-12">
-						<h1>CONTACT INFO</h1>
-						<p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-                        <p>The Projects section uses Isotope plugin which can be configured as described here <a href="https://isotope.metafizzy.co/">https://isotope.metafizzy.co/</a></p>
-					</div> <!-- end of projects -->
-
+									
+                    
+                    <div id="#contact" class="col-lg-12">
+                        <h1>Home</h1>
+                        <h2>Welkom op mijn e-portfolio</h2>
+                        <br>
+                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
+					</div> <!-- end of introduction -->
+                    
+                    
                 </div>
             </div>
         </div> <!-- end of page-content-wrapper -->

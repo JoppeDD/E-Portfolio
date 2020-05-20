@@ -42,11 +42,11 @@
                     <a href="competenties.html">COMPETENTIES</a>
 				</li>
 				<li>
-                    <a href="#contact">CONTACT</a>
-                </li>
-				<li>
 					<a href="#cv">CV</a>
 				</li>
+                <li>
+                    <a href="#contact">CONTACT</a>
+                </li>
             </ul>
         </div>
         <!-- end of sidebar wrapper -->
@@ -66,7 +66,13 @@
                         <h1>Home</h1>
                         <h2>Welkom op mijn e-portfolio</h2>
                         <br>
-                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
+                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio.</p>
+                        <br>
+                        <br>
+                        <h2>Over mijzelf</h2>
+                        <br>
+                        <p>Met deze website probeer ik zo een goed mogelijk beeld te scheppen van wie ik ben en wat ik allemaal in mijn schoolcarrière allemaal heb bereikt waar ik zelf fier op ben.</p>
+                        <br>
 					</div> <!-- end of introduction -->
                     
 
@@ -76,26 +82,44 @@
                         <h1>Projecten</h1>
                         <br>
                         <br>
-                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
-					</div> <!-- end of introduction -->
-                    
-
-					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
-                    
-                    <div id="cv" class="col-lg-12">
-                        <h1>Contact</h1>
+                        <p>Voor het vak multimedia hebben we in C++ eenprogramma geschreven dat midi files inleest en hiervan een beatmap maakt.</p>
+                        <br>
+                        <img src="multiple-instruments.png" width="300" height="300">
                         <br>
                         <br>
-                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
+                        <br>
+                        <p>Voor het vak Web4 hebben we een asynchrone <a href="https://github.com/Web4academiejaar20192020semester3/DuthoitJoppe-ChatApp">chat-website</a> gemaakt met behulp van jquery.</p>
 					</div> <!-- end of introduction -->
                     
 
 					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
                     
                     <div id="contact" class="col-lg-12">
+                        <br>
+                        <br>
                         <h1>CV</h1>
                         <br>
+                        <br>
                         <p><a href="cv.pdf" class="myButton">Open CV</a></p>
+                        <br>
+                        <br>
+					</div> <!-- end of introduction -->
+
+					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
+                    
+                    <div id="cv" class="col-lg-12">
+                        <br>
+                        <br>
+                        <h1>Contact</h1>
+                        <br>
+                        <br>
+                        <p>Ik ben altijd te bereiken via email: joppe.duthoit@gmail.com</p>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
 					</div> <!-- end of introduction -->
                 </div>
             </div>

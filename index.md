@@ -71,7 +71,7 @@
                         <br>
                         <h2>Over mijzelf</h2>
                         <br>
-                        <p>Met deze website probeer ik zo een goed mogelijk beeld te scheppen van wie ik ben en wat ik allemaal in mijn schoolcarrière allemaal heb bereikt waar ik zelf fier op ben.</p>
+                        <p>Met deze website probeer ik een zo goed mogelijk beeld te scheppen van wie ik ben en wat ik allemaal bereikt heb in mijn schoolcarrière waar ik zelf fier op ben.</p>
                         <br>
 					</div> <!-- end of introduction -->
                     
@@ -89,10 +89,15 @@
                         <br>
                         <br>
                         <p>Voor het vak Web4 hebben we een asynchrone <a href="https://github.com/Web4academiejaar20192020semester3/DuthoitJoppe-ChatApp">chat-website</a> gemaakt met behulp van jquery.</p>
+                        <br>
+                        <br>
+                        <p>Voor het vak Internet Programmeren hebben we een website gemaakt met behulp van het framework spring.</p>
+                        <br>
+                        <img src="OOO.png" width="500" height="354">
 					</div> <!-- end of introduction -->
                     
 
-					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
+					<div class="col-lg-12 lijn"><hr></div> <!-- gray separator line -->
                     
                     <div id="contact" class="col-lg-12">
                         <br>

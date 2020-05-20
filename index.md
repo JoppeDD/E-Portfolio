@@ -33,19 +33,19 @@
                 <li class="sidebar-brand">
                 </li>
                 <li>
-                    <a href="index.html">HOME</a>
+                    <a href="#home">HOME</a>
                 </li>
 				<li>
-                    <a href="projecten.html">PROJECTEN</a>
+                    <a href="#projecten">PROJECTEN</a>
                 </li>
                 <li>
                     <a href="competenties.html">COMPETENTIES</a>
 				</li>
 				<li>
-                    <a href="contact.html">CONTACT</a>
+                    <a href="#contact">CONTACT</a>
                 </li>
 				<li>
-					<a href="cv.pdf">CV</a>
+					<a href="#cv">CV</a>
 				</li>
             </ul>
         </div>
@@ -57,6 +57,12 @@
             <div class="container-fluid">
                 <div class="row">
                     <div id="home" class="col-lg-12">
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
+                        <br>
                         <h1>Home</h1>
                         <h2>Welkom op mijn e-portfolio</h2>
                         <br>
@@ -66,6 +72,31 @@
 
 					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
                     
+                    <div id="projecten" class="col-lg-12">
+                        <h1>Projecten</h1>
+                        <br>
+                        <br>
+                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
+					</div> <!-- end of introduction -->
+                    
+
+					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
+                    
+                    <div id="cv" class="col-lg-12">
+                        <h1>Contact</h1>
+                        <br>
+                        <br>
+                        <p>Ik ben Joppe Duthoit student toegepaste informatica aan de hogeschool UC Leuven Limburg op campus Proximus in haasrode en dit is mijn e-portfolio</p>
+					</div> <!-- end of introduction -->
+                    
+
+					<div class="col-lg-12"><hr></div> <!-- gray separator line -->
+                    
+                    <div id="contact" class="col-lg-12">
+                        <h1>CV</h1>
+                        <br>
+                        <p><a href="cv.pdf" class="myButton">Open CV</a></p>
+					</div> <!-- end of introduction -->
                 </div>
             </div>
         </div> <!-- end of page-content-wrapper -->

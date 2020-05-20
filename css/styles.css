@@ -182,6 +182,10 @@ pre.code-format {
     display: block;
 }
 
+.col-lg-12 {
+    text-align: center;
+}
+
 
 /*************************/
 /*     Media Queries     */
@@ -259,6 +263,7 @@ pre.code-format {
 .responsive-table .col-1 {
     flex-basis: 12%;
     margin-right: 10px;
+    font-weight: bolder;
 }
 
 .responsive-table .col-2 {
@@ -280,6 +285,30 @@ pre.code-format {
     flex-basis: 16%;
 }
 
+.myButton {
+	box-shadow:inset 0px 1px 3px -1px #787d7c;
+	background:linear-gradient(to bottom, #050505 5%, #4a4f4f 100%);
+	background-color:#050505;
+	border-radius:41px;
+	border:2px solid #656b69;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:16px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #7e8080;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #4a4f4f 5%, #050505 100%);
+	background-color:#4a4f4f;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
 
 

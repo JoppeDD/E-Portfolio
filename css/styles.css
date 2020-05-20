@@ -251,6 +251,11 @@ pre.code-format {
     box-shadow: 0px 0px 9px 0px rgba(0,0,0,0.1);
 }
 
+.responsive-table .bold {
+    font-weight: bold;
+    color: darkred;
+}
+
 .responsive-table .col-1 {
     flex-basis: 12%;
     margin-right: 10px;
